@@ -1,4 +1,4 @@
- A Basic web app which  allows users to view, add, edit, and delete products .
+ A Basic web Site which  allows users to view, add, edit, and delete products .
  Tech Stack: React.js, Chakra UI, Zustand (state management), Node.js, Express.js, 
 MongoDB, RESTful API, Vite 
 
